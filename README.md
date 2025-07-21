@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Hi, this is Hao. I work on agentic system and foundation models. 
+Hi, this is Hao. I work on agentic systems and foundation models. 
 
 My Google scholar is https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en, most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). If you really have nothing to do, read my papers.
 
