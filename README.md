@@ -32,3 +32,4 @@ Cheers.
 
 
 ![](fig/2_orig.png)
+Figure from my site for fractal rendering: Gallery in Fractal Dimensions https://galleryinfractaldimension-temp.weebly.com/
