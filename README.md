@@ -33,14 +33,3 @@ Cheers.
 
 ![](fig/2_orig.png)
 Figure from my site for fractal rendering: Gallery in Fractal Dimensions https://galleryinfractaldimension-temp.weebly.com/
-
-Also, you can search for worms
-
-
----
-
-<!-- Google Custom Search Engine Embed -->
-<script async src="https://cse.google.com/cse.js?cx=553664452de434ac6"></script>
-<div class="gcse-search"></div>
-
----
